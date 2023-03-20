@@ -1,0 +1,17 @@
+.dsct-invitation {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.dsct-invitation h1 {
+    color: var(--dcttf-color-font-primary);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+@media (min-width: 576px) {
+    .dsct-invitation h1 {
+        font-size: 32px;
+    }
+}

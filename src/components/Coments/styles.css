@@ -1,0 +1,16 @@
+.dsct-coments {
+    display: flex;
+    justify-content: center;
+}
+
+.dsct-coments H1 {
+    font-size: 20px;    
+    font-weight: 700;
+    color: var(--dcttf-color-font-primary);
+}
+
+@media (min-width: 576px)  {
+    .dsct-coments H1 {
+        font-size: 32px;
+    }    
+}

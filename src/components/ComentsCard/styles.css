@@ -1,0 +1,20 @@
+.dsct-comentsCard {
+    min-width: 280px;
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    border: 1px solid var(--dcttf-color-bg-secundary);
+    margin-bottom:20px;
+    background-color: var(--dcttf-color-bg-primary);
+}
+
+.dsct-comentsCard H3 {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--dcttf-color-font-secundary);
+    padding: 25px 20px;
+}

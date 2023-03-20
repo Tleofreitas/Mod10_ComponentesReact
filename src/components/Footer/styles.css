@@ -1,0 +1,22 @@
+footer {
+    padding: 0 20px;
+    background-color: var(--dcttf-color-bg-secundary);
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    color: var(--dcttf-color-font-tertiary);
+    font-size: 16px;
+    padding: 5px;
+}
+
+@media (min-width: 576px) {
+    footer {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}

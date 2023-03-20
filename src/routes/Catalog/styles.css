@@ -1,0 +1,18 @@
+#dsct-catalog-main {
+    padding: 0 20px;
+}
+
+#dsct-comments-section {
+    background-color: var(--dcttf-color-bg-tertiary);
+}
+ 
+.dsct-coments-container {
+    padding: 25px 0;
+}
+
+.dsct-comentsCard-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 20px;
+}
