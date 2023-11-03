@@ -2,7 +2,13 @@
 [Visualizar projeto online](https://mod10-componentes-react.vercel.app/)
 
 ## Desafio
-Você deverá entregar um projeto ReactJS estruturado em componentes, conforme design Figma abaixo:
+Você deverá criar um projeto ReactJS, usando o Vite, estruturado em componentes:
+1) Componente para representar o cabeçalho
+2) Componente para representar o card de carro
+3) Componente para representar o card de comentário
+4) Componente para representar o rodapé
+
+Criar conforme design Figma abaixo:
 
 [Ver o layout no figma...](https://www.figma.com/file/SGgxfyEMVs2gr04URFB75E/Desafio-Componentes-React)
 
@@ -11,14 +17,6 @@ Você deverá entregar um projeto ReactJS estruturado em componentes, conforme d
 Mobile:
 
 ![image](https://github.com/Tleofreitas/Mod10_ComponentesReact/assets/88738577/b751394f-29cf-442e-bd70-4b20c73ea3ae)
-
-Seu projeto deve ser criado usando o Vite.
-
-Checklist:
-1) Componente para representar o cabeçalho
-2) Componente para representar o card de carro
-3) Componente para representar o card de comentário
-4) Componente para representar o rodapé
 
 ---
 ## *Dúvidas? Contate-me*
